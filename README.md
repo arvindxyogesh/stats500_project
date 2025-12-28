@@ -83,8 +83,10 @@ The data exhibits **strong right-skewness and influential outliers**, typical of
 ├── report/
 │   └── Stats_500_project_report.pdf
 ├── README.md
+```
 
-🚀 Practical Implications
+
+## 🚀 Practical Implications
 
 Supports dynamic pricing and fleet allocation
 
@@ -92,7 +94,7 @@ Informs urban transportation planning
 
 Demonstrates diagnostic-driven statistical modeling
 
-⚠️ Limitations & Future Work
+##⚠️ Limitations & Future Work
 
 Single-city dataset
 
@@ -106,8 +108,9 @@ Infrastructure and environmental variables
 
 Nonlinear ML models
 
-👤 Author
+##👤 Author
 
 Arvind Yogesh Suresh Babu
 Master’s in Data Science
 University of Michigan, Ann Arbor
+
