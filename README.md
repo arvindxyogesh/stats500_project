@@ -1,4 +1,4 @@
-# 🚲 Analyzing Urban Micro-Mobility Trip Duration Determinants
+#  Analyzing Urban Micro-Mobility Trip Duration Determinants
 
 **Statistical Analysis of Trip Duration Across Micro-Mobility Modes**
 
@@ -115,5 +115,6 @@ Nonlinear ML models
 Arvind Yogesh Suresh Babu
 Master’s in Data Science
 University of Michigan, Ann Arbor
+
 
 
