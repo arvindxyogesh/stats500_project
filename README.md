@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 This project analyzes **trip duration determinants in urban micro-mobility systems** (bicycles, scooters, mopeds, and cars) using **50,000 real-world trips**.  
 The study focuses on how **distance, vehicle type, time of day, and day type** jointly influence travel time, with emphasis on **model diagnostics and statistical validity**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Quantify the relationship between **trip distance and duration**
 - Compare **vehicle efficiency** after controlling for distance
 - Analyze **time-of-day and weekday/weekend effects**
@@ -19,7 +19,7 @@ The study focuses on how **distance, vehicle type, time of day, and day type** j
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Observations:** 50,000 trips  
 - **Modes:** Bicycle, Scooter, Moped, Car  
 - **Key Variables:**
@@ -34,7 +34,7 @@ The data exhibits **strong right-skewness and influential outliers**, typical of
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 ### 1. Exploratory Analysis
 - Distribution analysis of duration and distance
 - Visualization of duration–distance relationships
@@ -53,7 +53,7 @@ The data exhibits **strong right-skewness and influential outliers**, typical of
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 - **Distance** is the dominant predictor of trip duration
 - After controlling for distance:
   - **Scooters and mopeds are faster than bicycles**
@@ -64,7 +64,7 @@ The data exhibits **strong right-skewness and influential outliers**, typical of
 
 ---
 
-## 🛠 Tools & Techniques
+##  Tools & Techniques
 - **Language:** R  
 - **Methods:**  
   - Linear & multivariate regression  
@@ -75,7 +75,7 @@ The data exhibits **strong right-skewness and influential outliers**, typical of
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 .
 ├── analysis/
@@ -86,7 +86,7 @@ The data exhibits **strong right-skewness and influential outliers**, typical of
 ```
 
 
-## 🚀 Practical Implications
+##  Practical Implications
 
 Supports dynamic pricing and fleet allocation
 
@@ -94,7 +94,8 @@ Informs urban transportation planning
 
 Demonstrates diagnostic-driven statistical modeling
 
-##⚠️ Limitations & Future Work
+
+##  Limitations & Future Work
 
 Single-city dataset
 
@@ -108,9 +109,11 @@ Infrastructure and environmental variables
 
 Nonlinear ML models
 
-##👤 Author
+
+##  Author
 
 Arvind Yogesh Suresh Babu
 Master’s in Data Science
 University of Michigan, Ann Arbor
+
 
